@@ -1,0 +1,6 @@
+EDGE_HOSTNAME_ID=ehn_2728730
+CERT_TYPE=CPS_MANAGED
+example.com
+www.example.com
+myhostanme.com
+www.myhostname.com
